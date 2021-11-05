@@ -1,0 +1,6 @@
+/scratch
+*.o
+*.py[cod]
+parser.out
+parsetab.py
+TODO.md
